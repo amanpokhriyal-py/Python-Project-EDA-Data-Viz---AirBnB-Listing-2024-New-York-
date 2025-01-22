@@ -1,5 +1,6 @@
 # Python-Project-EDA-Data-Viz---AirBnB-Listing-2024-New-York
 
+![New-York-City-Brooklyn-Bridge-Panorama-Juergen-Roth-2](https://github.com/user-attachments/assets/0e886d9a-982c-4965-8e68-4fa18ceae5bb)
 
 ## Introduction of Airbnb
 
