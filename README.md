@@ -8,7 +8,8 @@
 * Airbnb allows hosts to list their homes, apartments, or other properties for short-term rentals, and provides a platform for travelers to search for and book these accommodations. The platform includes a variety of listing types, including entire homes, private rooms, and shared rooms, and offers a wide range of price points to suit different budgets.
 
 ## Project Overview
-![New-York-City-Brooklyn-Bridge-Panorama-Juergen-Roth-2](https://github.com/user-attachments/assets/0e886d9a-982c-4965-8e68-4fa18ceae5bb)
+![airbnb-678x381](https://github.com/user-attachments/assets/a5e183c9-487e-4807-ad7a-bdb8f000c41c)
+
 
 This project performs Exploratory Data Analysis (EDA) on New York Airbnb data to uncover trends and patterns in rental listings. We use libraries like Pandas, Numpy, Matplotlib, Seabornfor cleaning, visualization, and analysis.
 
