@@ -65,6 +65,16 @@ This project performs Exploratory Data Analysis (EDA) on New York Airbnb data to
 understanding the factors that influence Airbnb prices in New York City, or identifying patterns of all variables and Our analysis provides useful information for travelers and hosts in the city and also provides some best insights for Airbnb business.
 
 
+## Recommendations
+
+* For Guests:
+   * Look for listings with high availability and good reviews for a better experience.
+   * Private rooms in Brooklyn offer affordable stays compared to Manhattan.
+
+* For Hosts:
+   * Improve availability and review response rates to attract more bookings.
+   * Manage pricing effectively to compete within the borough's market.
+
 
 
 
